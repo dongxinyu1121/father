@@ -1,0 +1,6 @@
+[submodule "first1"]
+	path = first1
+	url = https://github.com/dongxinyu1121/kid1.git
+[submodule "first2"]
+	path = first2
+	url = https://github.com/dongxinyu1121/kid2.git
