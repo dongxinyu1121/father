@@ -1,7 +1,7 @@
 
 
-def add(a, b):
-    return a + b
+def add(a, b, c):
+    return a + b + c
 
 def subtract(a, b):
     return a - b
@@ -15,8 +15,8 @@ def divide(a, b):
     return a / b
 
 if __name__ == "__main__":
-    result = add(3, 5)
-    print(f"The sum of 3 and 5 is: {result}")
+    result = add(3, 5, 2)
+    print(f"The sum of 3, 5, and 2 is: {result}")
 
     result = subtract(10, 4)
     print(f"The difference of 10 and 4 is: {result}")
